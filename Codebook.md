@@ -65,38 +65,38 @@ Here is a list of variables that are availabe in the output file:
 [30] "Frequency of Body Gyroscope  Standard Deviation Y"  Numeric -Standard deviation of the frequnecy of body gyrosope reading in direction Y               
 [31] "Frequency of Body Gyroscope  Standard Deviation Z"  Numeric -  Standard deviation of the frequnecy of body gyrosope reading in direction Z               
 [32] "Frequency of Body Accelerometer  Magnitude Standard Deviation " Numeric - Standard deviation of the frequnecy of body accelerometer reading             
-[33] "Frequency of Body Accelerometer Jerk Magnitude Standard Deviation  Numeric - "Standard deviation of the frequnecy of body accelerometer jer magnitude reading             
-[34] "Frequency of Body Gyroscope  Magnitude Standard Deviation "        
-[35] "Frequency of Body Gyroscope Jerk Magnitude Standard Deviation "    
-[36] "Time of Body Accelerometer  Mean X"                                
-[37] "Time of Body Accelerometer  Mean Y"                                
-[38] "Time of Body Accelerometer  Mean Z"                                
-[39] "Time of Gravity Accelerometer  Mean X"                             
-[40] "Time of Gravity Accelerometer  Mean Y"                             
-[41] "Time of Gravity Accelerometer  Mean Z"                             
-[42] "Time of Body Accelerometer Jerk Mean X"                            
-[43] "Time of Body Accelerometer Jerk Mean Y"                            
-[44] "Time of Body Accelerometer Jerk Mean Z"                            
-[45] "Time of Body Gyroscope  Mean X"                                    
-[46] "Time of Body Gyroscope  Mean Y"                                    
-[47] "Time of Body Gyroscope  Mean Z"                                    
-[48] "Time of Body Gyroscope Jerk Mean X"                                
-[49] "Time of Body Gyroscope Jerk Mean Y"                                
-[50] "Time of Body Gyroscope Jerk Mean Z"                                
-[51] "Time of Body Accelerometer  Magnitude Mean "                       
-[52] "Time of Gravity Accelerometer  Magnitude Mean "                    
-[53] "Time of Body Accelerometer Jerk Magnitude Mean "                   
-[54] "Time of Body Gyroscope  Magnitude Mean "                           
-[55] "Time of Body Gyroscope Jerk Magnitude Mean "                       
-[56] "Frequency of Body Accelerometer  Mean X"                           
-[57] "Frequency of Body Accelerometer  Mean Y"                           
-[58] "Frequency of Body Accelerometer  Mean Z"                           
-[59] "Frequency of Body Accelerometer  Mean Frequency X"                 
-[60] "Frequency of Body Accelerometer  Mean Frequency Y"                 
-[61] "Frequency of Body Accelerometer  Mean Frequency Z"                 
-[62] "Frequency of Body Accelerometer Jerk Mean X"                       
-[63] "Frequency of Body Accelerometer Jerk Mean Y"                       
-[64] "Frequency of Body Accelerometer Jerk Mean Z"                       
+[33] "Frequency of Body Accelerometer Jerk Magnitude Standard Deviation  Numeric - "Standard deviation of the frequnecy of body accelerometer jerk magnitude reading             
+[34] "Frequency of Body Gyroscope  Magnitude Standard Deviation" - Numeric - Standard deviation of the frequency of body gyroscope magnitude reading        
+[35] "Frequency of Body Gyroscope Jerk Magnitude Standard Deviation " Numeric - Standard deviation of the frequency of body gyroscope jerk magnitude reading           
+[36] "Time of Body Accelerometer  Mean X" numeric -the mean of the accelerometer reading in the X direction
+[37] "Time of Body Accelerometer  Mean Y" numeric -the mean of the accelerometer reading in the Y direction
+[38] "Time of Body Accelerometer  Mean Z" numeric -the mean of the accelerometer reading in the Z direction
+[39] "Time of Gravity Accelerometer  Mean X" numeric - the mean of the gravity with the Time of the accelerometer reading in the x Direction
+[40] "Time of Gravity Accelerometer  Mean Y" numeric - the mean of the gravity with the Time of the accelerometer reading in the y Direction                           
+[41] "Time of Gravity Accelerometer  Mean Z" numeric - the mean of the gravity with the Time of the accelerometer reading in the Z Direction                         
+[42] "Time of Body Accelerometer Jerk Mean X" Numeric - the mean  of the jerk Accelorometer reading in the X Direction   
+[43] "Time of Body Accelerometer Jerk Mean Y" Numeric - the mean  of the jerk Accelorometer reading in the Y Direction  
+[44] "Time of Body Accelerometer Jerk Mean Z" Numeric - the mean  of the jerk Accelorometer reading in the Z Direction
+[45] "Time of Body Gyroscope  Mean X" numeric - the mean of the Gyro reading in X Direction  
+[46] "Time of Body Gyroscope  Mean Y" numeric - the mean of the Gyro reading in Y Direction  
+[47] "Time of Body Gyroscope  Mean Z"numeric - the mean of the Gyro reading in Z Direction  
+[48] "Time of Body Gyroscope Jerk Mean X" numeric - the mean of the Gyro jek reading in X Direction  
+[49] "Time of Body Gyroscope Jerk Mean Y" numeric - the mean of the Gyro jerk reading in Y Direction        
+[50] "Time of Body Gyroscope Jerk Mean Z" numeric - the mean of the Gyro jerk reading in Z Direction               
+[51] "Time of Body Accelerometer  Magnitude Mean " Numeric - the mean magnitude of the accelerometer                     
+[52] "Time of Gravity Accelerometer  Magnitude Mean "  Numeric - the mean gravity magnitude of the accelerometer   
+[53] "Time of Body Accelerometer Jerk Magnitude Mean "  Numeric - the mean jerk magnitude of the accelerometer 
+[54] "Time of Body Gyroscope  Magnitude Mean " numeric -the mean of the gyroscope magnitude  
+[55] "Time of Body Gyroscope Jerk Magnitude Mean numeric - "the mean of the jerk gyroscope magnitude  
+[56] "Frequency of Body Accelerometer  Mean X" numeric- mean of frequency of accelerometer in the X direction
+[57] "Frequency of Body Accelerometer  Mean Y" numeric- mean of frequency of accelerometer in the Y direction
+[58] "Frequency of Body Accelerometer  Mean Z" numeric- mean of frequency of accelerometer in the Z direction        
+[59] "Frequency of Body Accelerometer  Mean Frequency X" numeric- mean frequency of frequency of accelerometer in the X direction
+[60] "Frequency of Body Accelerometer  Mean Frequency Y" numeric- mean frequency of frequency of accelerometer in the Y direction               
+[61] "Frequency of Body Accelerometer  Mean Frequency Z" numeric- mean frequency of frequency of accelerometer in the Z direction
+[62] "Frequency of Body Accelerometer Jerk Mean X" numeric- mean frequency of frequency of accelerometer jerk in the X direction                    
+[63] "Frequency of Body Accelerometer Jerk Mean Y" numeric- mean frequency of frequency of accelerometer jerk in the Y direction                    
+[64] "Frequency of Body Accelerometer Jerk Mean Z" numeric- mean frequency of frequency of accelerometer jerk in the Z direction                    
 [65] "Frequency of Body Accelerometer Jerk Mean Frequency X"             
 [66] "Frequency of Body Accelerometer Jerk Mean Frequency Y"             
 [67] "Frequency of Body Accelerometer Jerk Mean Frequency Z"             
