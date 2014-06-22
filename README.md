@@ -9,11 +9,11 @@ This Repro was created to store the Coursera project script for the Data Cleansi
 Here is a brief summary of the steps:
 
 
-*Set working directory - this line may need changing depending on where you are reading your files from
-*Read in the training and test datasets, the variable labels, activity labels as well as the ID labels
-*Change the training and test dataset column names to their feature names
-*Bind the activity and ID columns to the training and test datasets
-*Bind the training and test datasets into one large dataset
+* Set working directory - this line may need changing depending on where you are reading your files from
+* Read in the training and test datasets, the variable labels, activity labels as well as the ID labels
+* Change the training and test dataset column names to their feature names
+* Bind the activity and ID columns to the training and test datasets
+* Bind the training and test datasets into one large dataset
 
 
 *Extract the columns concerned with the mean (here mean was understood as both mean and mean frequency)
