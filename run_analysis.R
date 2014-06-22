@@ -75,4 +75,4 @@ splitData1 <- split(stdMeanData[,c(-1,-2)], list(stdMeanData$ID, stdMeanData$Act
 appliedData <- t(sapply(splitData1, function(x) colMeans(x)))
 
 ## Saved .txt file
-write.table(file="Tidy", x=appliedData)
+write.table(file="Tidy.txt", x=appliedData)
