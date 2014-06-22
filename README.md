@@ -15,7 +15,6 @@ Here is a brief summary of the steps:
 * Bind the activity and ID columns to the training and test datasets
 * Bind the training and test datasets into one large dataset
 
-
 * Extract the columns concerned with the mean (here mean was understood as both mean and mean frequency)
 * Extract the columns concerned with the standard deviation
 * Extract the ID and activity columns
@@ -23,9 +22,7 @@ Here is a brief summary of the steps:
 
 * Tidied up the column names to make the data more interpretable 
 
-
 * Split the data by activity and ID
 * Found the mean for each variable in each sub-category and saved this in a new dataset
-
 
 * Saved the tidied dataset as a .txt file
