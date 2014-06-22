@@ -35,37 +35,37 @@ Here is a list of variables that are availabe in the output file:
 
  [1] "Activity" - Factor - the actvity of the user {WALKING, SITTING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, LAYING}
  [2] "ID" - numeric - the subject ID
- [3] "Time of Body Accelerometer  Standard Deviation X"                  
- [4] "Time of Body Accelerometer  Standard Deviation Y"                  
- [5] "Time of Body Accelerometer  Standard Deviation Z"                  
- [6] "Time of Gravity Accelerometer  Standard Deviation X"               
- [7] "Time of Gravity Accelerometer  Standard Deviation Y"               
- [8] "Time of Gravity Accelerometer  Standard Deviation Z"               
- [9] "Time of Body Accelerometer Jerk Standard Deviation X"              
-[10] "Time of Body Accelerometer Jerk Standard Deviation Y"              
-[11] "Time of Body Accelerometer Jerk Standard Deviation Z"              
-[12] "Time of Body Gyroscope  Standard Deviation X"                      
-[13] "Time of Body Gyroscope  Standard Deviation Y"                      
-[14] "Time of Body Gyroscope  Standard Deviation Z"                      
-[15] "Time of Body Gyroscope Jerk Standard Deviation X"                  
-[16] "Time of Body Gyroscope Jerk Standard Deviation Y"                  
-[17] "Time of Body Gyroscope Jerk Standard Deviation Z"                  
-[18] "Time of Body Accelerometer  Magnitude Standard Deviation "         
-[19] "Time of Gravity Accelerometer  Magnitude Standard Deviation "      
-[20] "Time of Body Accelerometer Jerk Magnitude Standard Deviation "     
-[21] "Time of Body Gyroscope  Magnitude Standard Deviation "             
-[22] "Time of Body Gyroscope Jerk Magnitude Standard Deviation "         
-[23] "Frequency of Body Accelerometer  Standard Deviation X"             
-[24] "Frequency of Body Accelerometer  Standard Deviation Y"             
-[25] "Frequency of Body Accelerometer  Standard Deviation Z"             
-[26] "Frequency of Body Accelerometer Jerk Standard Deviation X"         
-[27] "Frequency of Body Accelerometer Jerk Standard Deviation Y"         
-[28] "Frequency of Body Accelerometer Jerk Standard Deviation Z"         
-[29] "Frequency of Body Gyroscope  Standard Deviation X"                 
-[30] "Frequency of Body Gyroscope  Standard Deviation Y"                 
-[31] "Frequency of Body Gyroscope  Standard Deviation Z"                 
-[32] "Frequency of Body Accelerometer  Magnitude Standard Deviation "    
-[33] "Frequency of Body Accelerometer Jerk Magnitude Standard Deviation "
+ [3] "Time of Body Accelerometer  Standard Deviation X" numeric -the standard deviation of the accelerometer reading in the X direction
+ [4] "Time of Body Accelerometer  Standard Deviation Y" numeric -the standard deviation of the accelerometer reading in the Y direction
+ [5] "Time of Body Accelerometer  Standard Deviation Z" -the standad deviation of the accelerometer reading in the Z direction
+ [6] "Time of Gravity Accelerometer  Standard Deviation X" numeric - the standard deviation of the gravity with the Time of the accelerometer reading in the x Direction
+ [7] "Time of Gravity Accelerometer  Standard Deviation Y" numeric -the standard deviation of the gravity with the Time of the accelerometer reading in the Y Direction
+ [8] "Time of Gravity Accelerometer  Standard Deviation Z" numeric - the standard deviation of the gravity with the Time of the accelerometer reading in the Z Direction
+ [9] "Time of Body Accelerometer Jerk Standard Deviation X" Numeric - the standard deviation of the jerk Accelorometer reading in the X Direction              
+[10] "Time of Body Accelerometer Jerk Standard Deviation Y" Numeric - the standard deviation of the jerk Accelorometer reading in the Y Direction         
+[11] "Time of Body Accelerometer Jerk Standard Deviation Z" Numeric - the standard deviation of the jerk Accelorometer reading in the Z Direction          
+[12] "Time of Body Gyroscope  Standard Deviation X" numeric - the Standard Deviation of the Gyro reading in X Direction  
+[13] "Time of Body Gyroscope  Standard Deviation Y" - numeric- the Standard Deviation of the Gyro reading in Y Direction
+[14] "Time of Body Gyroscope  Standard Deviation Z" the Standard Deviation of the Gyro reading in Z Direction
+[15] "Time of Body Gyroscope Jerk Standard Deviation X"  Numeric - the Standard Deviation of the gryo jerk reading in the X Direction                  
+[16] "Time of Body Gyroscope Jerk Standard Deviation Y"  Numeric - the Standard Deviation of the gryo jerk reading in the Y Direction                  
+[17] "Time of Body Gyroscope Jerk Standard Deviation Z" Numeric - the Standard Deviation of the gryo jerk reading in the Z Direction                  
+[18] "Time of Body Accelerometer  Magnitude Standard Deviation "  Numeric - the Standard Deviation magnitude of the accelerometer       
+[19] "Time of Gravity Accelerometer  Magnitude Standard Deviation "  Numeric - the Standard Deviation magnitude of the accelerometer     
+[20] "Time of Body Accelerometer Jerk Magnitude Standard Deviation " Numeric - the Standard Deviation jerk magnitude of the accelerometer       
+[21] "Time of Body Gyroscope  Magnitude Standard Deviation "  Numeric - the Standard Deviation magnitude of the gyroscope
+[22] "Time of Body Gyroscope Jerk Magnitude Standard Deviation " Numeric - the Standard Deviation jerk magnitude of the gyroscope
+[23] "Frequency of Body Accelerometer  Standard Deviation X" - Numeric - standard deviation of the frequency of body accelerometer in direction x          
+[24] "Frequency of Body Accelerometer  Standard Deviation Y" Numeric - standard deviation of the frequency of body accelerometer in direction y            
+[25] "Frequency of Body Accelerometer  Standard Deviation Z"  Numeric - standard deviation of the frequency of body accelerometer in direction z           
+[26] "Frequency of Body Accelerometer Jerk Standard Deviation X"  Numeric - standard deviation of the jerk frequency of body accelerometer in direction x             
+[27] "Frequency of Body Accelerometer Jerk Standard Deviation Y"Numeric - standard deviation of the jerk frequency of body accelerometer in direction y
+[28] "Frequency of Body Accelerometer Jerk Standard Deviation Z"Numeric - standard deviation of the jerk frequency of body accelerometer in direction z       
+[29] "Frequency of Body Gyroscope  Standard Deviation X" - Numeric - Standard deviation of the frequnecy of body gyrosope reading in direction X              
+[30] "Frequency of Body Gyroscope  Standard Deviation Y"  Numeric -Standard deviation of the frequnecy of body gyrosope reading in direction Y               
+[31] "Frequency of Body Gyroscope  Standard Deviation Z"  Numeric -  Standard deviation of the frequnecy of body gyrosope reading in direction Z               
+[32] "Frequency of Body Accelerometer  Magnitude Standard Deviation " Numeric - Standard deviation of the frequnecy of body accelerometer reading             
+[33] "Frequency of Body Accelerometer Jerk Magnitude Standard Deviation  Numeric - "Standard deviation of the frequnecy of body accelerometer jer magnitude reading             
 [34] "Frequency of Body Gyroscope  Magnitude Standard Deviation "        
 [35] "Frequency of Body Gyroscope Jerk Magnitude Standard Deviation "    
 [36] "Time of Body Accelerometer  Mean X"                                
